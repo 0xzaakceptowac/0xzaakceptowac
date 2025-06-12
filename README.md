@@ -5,10 +5,9 @@ My name is Tyronne Joshua Betita. I am an aspiring cybersecurity engineer and a 
 I enjoy looking back and reminiscing about my stuff so that in the future I can reflect on how much I have grown as a computer enthusiast.
 
 # THM Stats
-<iframe 
-  src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1770386" 
-  style="border: none; width: 400px; height: 100px; display: block; margin-left: 0;">
-</iframe>
+
+
+[![THM](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1770386)](https://tryhackme.com/p/kamote.queue)
 
 # HTB Stats
 <a href="https://app.hackthebox.com/profile/133546" target="_blank">
