@@ -6,8 +6,7 @@ I enjoy looking back and reminiscing about my stuff so that in the future I can 
 
 # THM Stats
 
-
-[![THM](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1770386)](https://tryhackme.com/p/kamote.queue)
+[![THM](https://tryhackme-badges.s3.amazonaws.com/kamote.queue.png)](https://tryhackme.com/p/kamote.queue)
 
 # HTB Stats
 <a href="https://app.hackthebox.com/profile/133546" target="_blank">
