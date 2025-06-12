@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Tyronne Joshua Betita. I am an aspiring cybersecurity engineer and a CTF player. I created this GitHub profile mostly for fun and as a place to showcase my projects and hobbies. 
+My name is Tyronne Joshua Betita, I am an aspiring cybersecurity engineer and a CTF player. I created this GitHub profile mostly for fun and as a place to showcase my projects and hobbies. 
 
 I enjoy looking back and reminiscing about the things I have stored here so that in the future I can reflect on how much I have grown as a computer enthusiast.
 
