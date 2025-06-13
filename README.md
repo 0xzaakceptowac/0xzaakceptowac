@@ -16,7 +16,8 @@ I also store random shit here so that in the future I can look back and reflect 
 
 # Socials
 Feel free to reach me out via:
-* Linkedin: https://www.linkedin.com/in/tyronne-b-2974a1176/
-* Medium: https://medium.com/@zaakc
-* THM: https://tryhackme.com/p/kamote.queue
+
+* Linkedin:  https://www.linkedin.com/in/tyronne-b-2974a1176/
+* Medium:    https://medium.com/@zaakc
+* THM:       https://tryhackme.com/p/kamote.queue
 
