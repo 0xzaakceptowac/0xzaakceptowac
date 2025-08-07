@@ -2,9 +2,9 @@
 
 My name is Tyronne Joshua Betita, 
 
-I am an aspiring cybersecurity engineer and a CTF player. I created this GitHub profile to showcase my projects and more importantly having fun while learning new stuff. I may have started late on this kind of stuff but it is better late than never they say.
+I am an aspiring cybersecurity engineer and a CTF player. I created this GitHub profile to showcase my projects and most importantly have fun while learning new stuff. I may have started late but it is better late than never they said.
 
-I also store random shit here so that in the future I can look back and reflect on how much I have grown as a tech degenerate.
+I also store random content here so that in the future I can look back and reflect on how much I have grown as a tech degenerate.
 
 # THM (active)
 [![THM](https://tryhackme-badges.s3.amazonaws.com/kamote.queue.png)](https://tryhackme.com/p/kamote.queue)
