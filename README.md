@@ -6,7 +6,7 @@ I am an aspiring cybersecurity engineer and a CTF player. I created this GitHub 
 
 
 # THM (active)
-<img src="https://tryhackme-badges.s3.amazonaws.com/kamote.queue.png?update=3" alt="THM" width="200" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/kamote.queue.png?update=3" alt="THM" />
 
 # HTB (inactive)
 <a href="https://app.hackthebox.com/profile/133546" target="_blank">
