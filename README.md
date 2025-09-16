@@ -6,7 +6,7 @@ I am an aspiring cybersecurity engineer and a CTF player. I created this GitHub 
 
 
 # THM (active)
-[![THM](https://tryhackme-badges.s3.amazonaws.com/kamote.queue.png)]
+![THM]([https://tryhackme-badges.s3.amazonaws.com/kamote.queue.png](https://tryhackme-badges.s3.amazonaws.com/kamote.queue.png?update=3))
 
 
 # HTB (inactive)
